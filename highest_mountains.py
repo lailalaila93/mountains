@@ -1,5 +1,3 @@
-# highest_mountains.py
-
 # List of the world's tallest mountains with their heights (in meters)
 mountains = [
     {"name": "Mount Everest", "height": 8848},
