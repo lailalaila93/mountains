@@ -14,6 +14,7 @@ This script lists the highest mountains in the world, displaying their names and
 2. Run the script:
    ```bash
    python highest_mountains.py
+   ```
 
 ## Example Output
 ```bash
