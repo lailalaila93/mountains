@@ -1,4 +1,6 @@
 # List of the world's tallest mountains with their heights (in meters)
+import time
+
 mountains = [
     {"name": "Mount Everest", "height": 8848},
     {"name": "K2", "height": 8611},
