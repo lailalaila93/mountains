@@ -1,4 +1,4 @@
-# Highest Mountains 
+## Highest Mountains 
 A List of the World's Tallest Mountains
 
 This script lists the highest mountains in the world, displaying their names and heights in meters.
@@ -11,10 +11,7 @@ This script lists the highest mountains in the world, displaying their names and
 ## How to Use
 
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python highest_mountains.py
-   ```
+2. Run the script.
 
 ## Example Output
 ```bash
