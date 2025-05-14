@@ -1,6 +1,4 @@
 ## Highest Mountains 
-A List of the World's Tallest Mountains
-
 This script lists the highest mountains in the world, displaying their names and heights in meters.
 
 ## Features
