@@ -1,6 +1,6 @@
 # List of the world's tallest mountains with their heights (in meters)
 import time
-import os
+
 
 mountains = [
     {"name": "Mount Everest", "height": 8848},
