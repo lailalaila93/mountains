@@ -5,6 +5,7 @@ This script lists the highest mountains in the world, displaying their names and
 
 - Displays a predefined list of the world's tallest mountains.
 - Provides mountain names along with their heights.
+- mountain names along with their heights.
 
 ## How to Use
 
