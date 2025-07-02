@@ -14,7 +14,7 @@ mountains = [
     {"name": "Manaslu", "height": 8163},
     {"name": "Nanga Parbat", "height": 8126},
     {"name": "Annapurna", "height": 8091},
-    {"name"}
+    {"name": "Annapurna", "height": 8092}
 ]
 
 # Function to display the list of highest mountains
